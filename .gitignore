@@ -1,0 +1,11 @@
+venv/
+recorded_videos/
+\__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+*.log
+*.sqlite3
+*.db
+focus_data.csv
